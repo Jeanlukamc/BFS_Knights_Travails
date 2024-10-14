@@ -6,4 +6,6 @@ Breadth First Search algorithm on the Knight's Travails Problem
 - Print the results and see the how the knight moves with the found optimal path.
 
 - Uses this pseudo code as a template and implement it in Java
+
+
 ![image](https://github.com/user-attachments/assets/48bcb032-9b1e-4a73-a9d3-19af9cefd423)
